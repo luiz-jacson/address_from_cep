@@ -1,0 +1,41 @@
+[33mcommit 4ab360cee37ba290fe34b6d9173f00966dd9aa1b[m[33m ([m[1;36mHEAD -> [m[1;32mclasse[m[33m)[m
+Author: Luiz Jacson <luiz.jacson@souunit.com>
+Date:   Sat Jun 11 15:32:05 2022 -0300
+
+    Corrigindo erros de entrada
+
+[33mcommit 2f2dbb1ad77e13cc929b1c175b6719586ca428ce[m
+Author: Luiz Jacson <luiz.jacson@souunit.com>
+Date:   Sat Jun 11 15:31:31 2022 -0300
+
+    atualizando gitignore
+
+[33mcommit 473c05b030a1645be070316b8ec0a4fca46eb9d4[m
+Author: Luiz Jacson <luiz.jacson@souunit.com>
+Date:   Sat Jun 11 14:41:42 2022 -0300
+
+    Implementando api de busca de cep
+
+[33mcommit 6647b6b728b50b8687ef960b5bed26cd92b8ff5a[m
+Author: Luiz Jacson <luiz.jacson@souunit.com>
+Date:   Sat Jun 11 14:41:06 2022 -0300
+
+    Criando classe Cep
+
+[33mcommit 627ebaf91b7fadced66410a161ba84a800484ef5[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Luiz Jacson <luiz.jacson@souunit.com>
+Date:   Sat Jun 11 13:53:16 2022 -0300
+
+    Adicionando arquivo main
+
+[33mcommit 6a228ad3e94852b53c4935ae8e3f4dfce90c5e3a[m
+Author: Luiz Jacson <luiz.jacson@souunit.com>
+Date:   Sat Jun 11 13:52:53 2022 -0300
+
+    Atualizando git ignore
+
+[33mcommit 9b819016a5477bbb238be1581c6b1ff8742961d8[m[33m ([m[1;31mlocal/master[m[33m)[m
+Author: Luiz Jacson <luiz.jacson@souunit.com>
+Date:   Sat Jun 11 13:41:53 2022 -0300
+
+    Adicionando gitignore
