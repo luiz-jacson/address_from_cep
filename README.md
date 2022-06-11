@@ -14,4 +14,4 @@ Esta é uma simples aplicação em python que, a partir do CEP informado pelo us
 
 ## Apêndice
 
-Para iniciar a aplicação basta iniciar o executável add_from_cep.exe
+Para iniciar a aplicação basta iniciar o executável add_from_cep.lnk
