@@ -9,7 +9,7 @@ Esta é uma simples aplicação em python que, a partir do CEP informado pelo us
 
 ## Autores
 
-- [Luiz Jacson](https://https://github.com/luiz-jacson)
+- [Luiz Jacson](https:github.com/luiz-jacson)
 
 
 ## Apêndice
