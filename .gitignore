@@ -2,3 +2,8 @@
 venv
 servidor
 __pycache__/
+X
+add_from_cep.lnk
+build
+dist
+main.spec
